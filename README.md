@@ -21,7 +21,7 @@
 
 ###
 
-<h6 align="left">Frontend: Typescript, Javascript, React, NextJs, AngularJs, Scss, Redux toolkit, React Testing Library, Formik, Storybookjs, Graphql, Axios, Wordpress.<br><br>Backend: Node.js, Expressjs, MongoDb, JWT, Django.<br><br>Cloud Technologies: AWS S3, Appsync, Cloudfront, Amplify.<br><br>Package Manager: Yarn, Npm. Grunt, Gulp.<br><br>Version Control: Git, Github</h6>
+<p align="left">Frontend: Typescript, Javascript, React, NextJs, AngularJs, Scss, Redux toolkit, React Testing Library, Formik, Storybookjs, Graphql, Axios, Wordpress.<br><br>Backend: Node.js, Expressjs, MongoDb, JWT, Django.<br><br>Cloud Technologies: AWS S3, Appsync, Cloudfront, Amplify.<br><br>Package Manager: Yarn, Npm. Grunt, Gulp.<br><br>Version Control: Git, Github</p>
 
 ###
 
