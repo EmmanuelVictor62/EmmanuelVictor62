@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Emmanuel 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | 🎯 Frontend-Focused | 🚀 Tech Lead | 🧠 ML Explorer | ☁️ DevOps Curious  
+  💻 Full-Stack Developer | 🎯 Frontend-Focused  | 🧠 ML Explorer | ☁️ DevOps Curious  
 </p>
 
 ---
@@ -16,6 +16,9 @@ I thrive in fast-paced environments and love crafting scalable, maintainable sys
 
 ### 🚀 What I've Built & Led
 
+####  **Vidaxhelps (Portugal)**
+Worked as a full-stack developer focused on developing internal tools, dashboards, and backend services supporting organizational operations and user workflows.
+
 ####  **Curator Video**
 Migrated a production-grade video platform from AngularJS to React, modernizing the stack, cutting bugs, and delivering a faster, cleaner frontend experience for end-users.
 
@@ -29,8 +32,6 @@ All built with Next.js, TypeScript, and GraphQL for performance and scalability.
 ####  **Bedspace**
 Led backend and UI/UX teams for a student accommodation platform—designed RESTful APIs, planned infrastructure, and ensured consistent UI/UX across the board.
 
-####  **Vidaxhelps (Portugal)**
-Worked as a full-stack developer focused on developing internal tools, dashboards, and backend services supporting organizational operations and user workflows.
 
 ---
 
