@@ -30,7 +30,8 @@ Built a multi-interface e-commerce platform — customer-facing site, admin dash
 Co-founded and led the development of a student accommodation platform. Architected both backend APIs and frontend UI, with a focus on accessibility and user trust.
 
 ### 🔹 [Nectar App](https://github.com/EmmanuelVictor62/nectar-app)
-A sleek productivity app for journaling and scheduling. Uses Redux Toolkit for state management and TailwindCSS for styling. Built with component reusability and responsiveness in mind.
+A sleek grocery app. Built using React Native and Expo, uses Zustand for state management and Async Storage for managing data.
+_(Demo GIF included in the repo)_
 
 ### 🔹 [Chat App](https://github.com/EmmanuelVictor62/chat-app)
 Simulates a chatbot interface. Backend powered by Express and PostgreSQL, frontend with Next.js and Redux Toolkit. Includes form validation, request states, and mock bot responses.  
