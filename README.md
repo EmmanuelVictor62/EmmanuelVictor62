@@ -49,9 +49,8 @@ _(Demo GIF included in the repo)_
 
 ---
 
-## 📄 Resume & Contact
+## 📄 Contact
 
-- [View My Resume](https://drive.google.com/file/d/1S3C5UEl0FQGypt5FRP-4tbQDwPW9Zu-x/view?usp=sharing)
 - Email: **emmanuelvictor.dev@gmail.com**
 - LinkedIn: [Emmanuel Victor](https://www.linkedin.com/in/emmanuel-victor-isaac/)
 
