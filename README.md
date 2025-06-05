@@ -15,7 +15,7 @@ I'm currently exploring opportunities to work on meaningful projects, especially
 - **DevOps Familiarity:** Docker, CI/CD, GitHub Actions, Supabase, Railway
 - **Real-time Communication:** WebSockets, AWS IVS for livestreaming
 - **Testing & Documentation:** Jest, React Testing Library, Zod, Swagger
-
+- **Automation:** n8n, Make, Zapier, IFTTT, Parabola
 ---
 
 ## 🚀 Some Cool Projects
