@@ -12,6 +12,7 @@ I'm currently exploring opportunities to work on meaningful projects, especially
 
 - **Frontend Development:** React, Angular, React Native, Next.js, TypeScript, SCSS, TailwindCSS, Redux Toolkit
 - **Backend Engineering:** Node.js (Express), PostgreSQL, MongoDB, Prisma, AWS
+- **Web3 Development:** Solidity, Hardhat, Ethers.js, Web3.js, Smart Contracts, Ethereum, IPFS, The Graph, SIWE (Sign-In with Ethereum)
 - **DevOps Familiarity:** Docker, CI/CD, GitHub Actions, Supabase, Railway
 - **Real-time Communication:** WebSockets, AWS IVS for livestreaming
 - **Testing & Documentation:** Jest, React Testing Library, Zod, Swagger
