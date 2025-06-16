@@ -20,6 +20,9 @@ I'm currently exploring opportunities to work on meaningful projects, especially
 
 ## 🚀 Some Cool Projects
 
+### 🔹 [ConsenSys](https://consensys.io/)
+Built and deployed decentralized applications on Ethereum. Developed smart contracts with Solidity, integrated wallet auth using SIWE, and created a DAO dashboard and NFT marketplace using Next.js, Node.js, and The Graph. Focused on optimizing gas usage, security, and seamless user experience.
+
 ### 🔹 [Curator Video](https://thecurator.io/)
 Modernized a full-fledged video streaming platform by migrating from AngularJS to React. Integrated real-time chat with WebSocket and implemented AWS IVS for livestreaming. Resulted in a faster, cleaner, and more responsive user experience.
 
