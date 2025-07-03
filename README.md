@@ -19,30 +19,6 @@ I'm currently exploring opportunities to work on meaningful projects, especially
 - **Automation:** n8n, Make, Zapier, IFTTT, Parabola
 ---
 
-## 🚀 Some Cool Projects
-
-### 🔹 [ConsenSys](https://consensys.io/)
-Built and deployed decentralized applications on Ethereum. Developed smart contracts with Solidity, integrated wallet auth using SIWE, and created a DAO dashboard and NFT marketplace using Next.js, Node.js, and The Graph. Focused on optimizing gas usage, security, and seamless user experience.
-
-### 🔹 [Curator Video](https://thecurator.io/)
-Modernized a full-fledged video streaming platform by migrating from AngularJS to React. Integrated real-time chat with WebSocket and implemented AWS IVS for livestreaming. Resulted in a faster, cleaner, and more responsive user experience.
-
-### 🔹 [Avocado](https://avocadoapp.ng)
-Built a multi-interface e-commerce platform — customer-facing site, admin dashboard, and vendor portal. Led frontend efforts using Next.js, TypeScript, and GraphQL, delivering performance and scalability.
-
-### 🔹 Bedspace
-Co-founded and led the development of a student accommodation platform. Architected both backend APIs and frontend UI, with a focus on accessibility and user trust.
-
-### 🔹 [Nectar App](https://github.com/EmmanuelVictor62/nectar-app)
-A sleek grocery app. Built using React Native and Expo, uses Zustand for state management and Async Storage for managing data.
-_(Demo GIF included in the repo)_
-
-### 🔹 [Chat App](https://github.com/EmmanuelVictor62/chat-app)
-Simulates a chatbot interface. Backend powered by Express and PostgreSQL, frontend with Next.js and Redux Toolkit. Includes form validation, request states, and mock bot responses.  
-_(Demo GIF included in the repo)_
-
----
-
 ## 💡 A Little About Me
 
 - I’m passionate about building tools quickly and improving them with iteration.
