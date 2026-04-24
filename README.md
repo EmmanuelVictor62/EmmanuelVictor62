@@ -2,6 +2,7 @@
 
 **Full-Stack Developer** | **Frontend-Focused** | **Tech Explorer**
 
+<!--
 ---
 
 ## 📊 GitHub Analytics
@@ -13,3 +14,5 @@
 
 
 ---
+
+-->
